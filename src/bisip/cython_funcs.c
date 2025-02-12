@@ -6822,7 +6822,7 @@ if (!__Pyx_RefNanny) {
   /* "bisip/cython_funcs.pyx":19
  * 
  * 
- * DTYPE = np.float_             # <<<<<<<<<<<<<<
+ * DTYPE = np.float64             # <<<<<<<<<<<<<<
  * ctypedef cnp.float_t DTYPE_t
  * 
  */
