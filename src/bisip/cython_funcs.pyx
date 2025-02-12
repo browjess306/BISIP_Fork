@@ -16,7 +16,7 @@ import numpy as np
 cimport numpy as cnp
 
 
-DTYPE = np.float_
+DTYPE = np.float64
 ctypedef cnp.float_t DTYPE_t
 
 DTYPE2 = np.complex128
